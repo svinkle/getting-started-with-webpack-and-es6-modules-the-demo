@@ -1,0 +1,13 @@
+{
+    "name": "getting_started_with_webpack_and_es6_modules",
+    "version": "0.1.0",
+    "description": "Getting started with webpack and ES6 modules",
+    "scripts": {
+        "start": "npm run webpack",
+        "webpack": "webpack -d --watch"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "webpack": "^3.0.0"
+    }
+}
